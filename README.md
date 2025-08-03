@@ -4,6 +4,13 @@ A Raylib-cs integration with DearImGui
 
 rlImgui-cs provides a backend for [Dear ImGui](https://github.com/ocornut/imgui) using [Raylib](https://www.raylib.com/) for C# using https://github.com/mellinoe/ImGui.NET
 
+# Fork Details (Owen Shelton)
+This fork contains changes that I desire to take advantage of in my projects beyond what is possible by configuring the library externally.
+
+These include:
+
+- Removing FontAwesome support altogether.
+
 # Building
 rlImGui-cs is is a shared library that uses raylib-cs and ImGui.Net
 

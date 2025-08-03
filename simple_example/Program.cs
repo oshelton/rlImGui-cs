@@ -39,7 +39,7 @@ namespace rlImGui_cs
 
                 if (ImGui.Begin("Simple Window"))
                 {
-                    ImGui.TextUnformatted("Icon text " + IconFonts.FontAwesome6.Book);
+                    ImGui.TextUnformatted("Simple text");
                 }
                 ImGui.End();
                 rlImGui.End();
